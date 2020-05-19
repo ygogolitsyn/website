@@ -6,3 +6,5 @@ edited in branch
 
 updates made on master on GitHub before rebase
 
+Conflict change
+
